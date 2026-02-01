@@ -1,10 +1,11 @@
 use clap::Parser;
 
+#[derive(Parser)]
 pub struct Args {
     pub input: String,
     pub output: String,
 }
 
-pub fun get_args() -> Args {
+pub fn get_args() -> Args {
     Args::parse()
 }

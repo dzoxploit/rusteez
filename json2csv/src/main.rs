@@ -2,7 +2,7 @@ mod cli;
 mod reader;
 mod converter;
 mod writer;
-mod errors;
+mod error;
 mod utils;
 
 
