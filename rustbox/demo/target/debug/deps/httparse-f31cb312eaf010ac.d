@@ -1,0 +1,12 @@
+C:\Users\didin\Documents\rustbox\demo\target\debug\deps\httparse-f31cb312eaf010ac.rmeta: C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\lib.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\iter.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\macros.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\simd\mod.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\simd\sse42.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\simd\avx2.rs
+
+C:\Users\didin\Documents\rustbox\demo\target\debug\deps\libhttparse-f31cb312eaf010ac.rlib: C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\lib.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\iter.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\macros.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\simd\mod.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\simd\sse42.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\simd\avx2.rs
+
+C:\Users\didin\Documents\rustbox\demo\target\debug\deps\httparse-f31cb312eaf010ac.d: C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\lib.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\iter.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\macros.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\simd\mod.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\simd\sse42.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\simd\avx2.rs
+
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\lib.rs:
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\iter.rs:
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\macros.rs:
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\simd\mod.rs:
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\simd\sse42.rs:
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.4.1\src\simd\avx2.rs:

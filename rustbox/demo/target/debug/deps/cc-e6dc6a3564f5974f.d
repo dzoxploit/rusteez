@@ -1,0 +1,13 @@
+C:\Users\didin\Documents\rustbox\demo\target\debug\deps\cc-e6dc6a3564f5974f.rmeta: C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\lib.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\registry.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\winapi.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\com.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\setup_config.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\vs_instances.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\windows_registry.rs
+
+C:\Users\didin\Documents\rustbox\demo\target\debug\deps\libcc-e6dc6a3564f5974f.rlib: C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\lib.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\registry.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\winapi.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\com.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\setup_config.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\vs_instances.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\windows_registry.rs
+
+C:\Users\didin\Documents\rustbox\demo\target\debug\deps\cc-e6dc6a3564f5974f.d: C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\lib.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\registry.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\winapi.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\com.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\setup_config.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\vs_instances.rs C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\windows_registry.rs
+
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\lib.rs:
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\registry.rs:
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\winapi.rs:
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\com.rs:
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\setup_config.rs:
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\vs_instances.rs:
+C:\Users\didin\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.69\src\windows_registry.rs:
