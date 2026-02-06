@@ -1,0 +1,12 @@
+C:\Users\didin\Documents\rusteez\target\debug\deps\rand_core-41d2eb87ca373cbf.d: C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\lib.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\block.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\error.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\impls.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\le.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\os.rs
+
+C:\Users\didin\Documents\rusteez\target\debug\deps\librand_core-41d2eb87ca373cbf.rlib: C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\lib.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\block.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\error.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\impls.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\le.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\os.rs
+
+C:\Users\didin\Documents\rusteez\target\debug\deps\librand_core-41d2eb87ca373cbf.rmeta: C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\lib.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\block.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\error.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\impls.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\le.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\os.rs
+
+C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\lib.rs:
+C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\block.rs:
+C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\error.rs:
+C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\impls.rs:
+C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\le.rs:
+C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.6.4\src\os.rs:

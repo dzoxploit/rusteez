@@ -1,0 +1,11 @@
+C:\Users\didin\Documents\rusteez\target\debug\deps\hyper_rustls-5665c0ed36754672.d: C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\lib.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\config.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\connector.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\connector\builder.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\stream.rs
+
+C:\Users\didin\Documents\rusteez\target\debug\deps\libhyper_rustls-5665c0ed36754672.rlib: C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\lib.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\config.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\connector.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\connector\builder.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\stream.rs
+
+C:\Users\didin\Documents\rusteez\target\debug\deps\libhyper_rustls-5665c0ed36754672.rmeta: C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\lib.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\config.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\connector.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\connector\builder.rs C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\stream.rs
+
+C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\lib.rs:
+C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\config.rs:
+C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\connector.rs:
+C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\connector\builder.rs:
+C:\Users\didin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-rustls-0.27.7\src\stream.rs:

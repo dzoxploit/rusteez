@@ -1,1 +1,0 @@
-C:\Users\didin\Documents\rusteez\target\debug\logtool.exe: C:\Users\didin\Documents\rusteez\logtool\src\cli.rs C:\Users\didin\Documents\rusteez\logtool\src\filter.rs C:\Users\didin\Documents\rusteez\logtool\src\main.rs C:\Users\didin\Documents\rusteez\logtool\src\output.rs C:\Users\didin\Documents\rusteez\logtool\src\parser.rs

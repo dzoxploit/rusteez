@@ -6,6 +6,7 @@ mod output;
 use anyhow::Result;
 use std::fs::File;
 use std::io::{BufRead, BufReader};
+use crate::model::{Service, Report};
 
 fn main() -> Result<()> {
     let args = cli::get_args();

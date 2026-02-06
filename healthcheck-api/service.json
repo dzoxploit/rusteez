@@ -1,0 +1,22 @@
+[
+  {
+    "name": "GitHub API",
+    "url": "https://api.github.com"
+  },
+  {
+    "name": "Cloudflare DNS",
+    "url": "https://1.1.1.1"
+  },
+  {
+    "name": "Google",
+    "url": "https://www.google.com"
+  },
+  {
+    "name": "HTTPBin",
+    "url": "https://httpbin.org/status/200"
+  },
+  {
+    "name": "JSONPlaceholder",
+    "url": "https://jsonplaceholder.typicode.com/posts"
+  }
+]
