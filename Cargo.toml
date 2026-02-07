@@ -1,5 +1,5 @@
 [workspace]
-members = ["healthcheck-api",
+members = ["cp-learning","healthcheck-api",
     "json2csv", "logtool",
     "rustbox/demo"
 ]
